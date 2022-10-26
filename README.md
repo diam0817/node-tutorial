@@ -289,3 +289,4 @@ api_1      | 2022-08-03 15:52:00 info: {"id":"33e76e0a-51b9-4e1b-9f8d-db84a45636
 ^CGracefully stopping... (press Ctrl+C again to force)
 Stopping node-tutorial_api_1       ... done
 a206726975@FVFHL030Q05Q node-tutorial % 
+# ism6216
